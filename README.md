@@ -5,7 +5,7 @@ Model. Provide two methods to estimate the model, which includes a constructive 
 
     #install.packages("devtools")
     library(devtools)
-    install_github("Shuang-Zhang/ASDAR/")
+    install_github("Shuang-Zhang/ASDAR")
 
 # Usage
 
