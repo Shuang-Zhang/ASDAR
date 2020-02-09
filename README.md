@@ -1,6 +1,5 @@
 # ASDAR
-R package "ASDAR" for estimation of L0 Regularized High-dimensional Accelerated Failure Time
-Model. Provide two methods to estimate the model, which includes a constructive approach to L0 penalized regression of Huang et al. (2018), L0 Regularized High-dimensional Accelerated Failure Time Model.
+R package "ASDAR" for estimation under L0 Regularized High-dimensional Accelerated Failure Time Model. This package provides two methods to estimate the parameters of the AFT model, which is proposed by Feng et al. (2020+).
 # Installation
 
     #install.packages("devtools")
