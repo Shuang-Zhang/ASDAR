@@ -1,0 +1,11 @@
+Package: ASDAR
+Type: Package
+Title: L0 Regularized High-dimensional Accelerated Failure Time Model
+Version: 1.0
+Date: 2020-02-07
+Author: Xingdong Feng, Jian Huang, Yuling Jiao, Shuang Zhang
+Maintainer: Shuang Zhang <zhangshuang_jz@sina.cn>
+Description: A constructive approach for L0 penalized estimation in the sparse accelerated failure time (AFT) model with high-dimensional covariates. A computational algorithm that generates a sequence of solutions iteratively, based on active sets derived from primal and dual information and root fnding according to the KKT conditions.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.3)
+LinkingTo: Rcpp, RcppEigen
